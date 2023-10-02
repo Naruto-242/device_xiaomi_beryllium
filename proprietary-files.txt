@@ -178,10 +178,6 @@ vendor/lib/mibokeh_845_opencl.bin
 vendor/firmware/bu64748gwz.prog
 vendor/firmware/CAMERA_ICP.elf
 
-# Configstore - from OnePlus6 - RKQ1.201217.002/2107130217
--vendor/lib/libplatformconfig.so|f46533ca08bbfa17b323aa364a96e4653324d7e4
--vendor/lib64/libplatformconfig.so|fcffe058ecd578396b4a406c3a00dfe6cc6b7d95
-
 # Display configs
 vendor/etc/hdr_config.cfg
 vendor/etc/sdr_config.cfg

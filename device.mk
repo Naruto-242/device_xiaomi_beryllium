@@ -26,7 +26,7 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 PRODUCT_PACKAGES += \
     NoCutoutOverlay \
-    FaceUnlockService 
+     BerylliumFaceUnlockServiceOverlay
 
 # Screen density
 PRODUCT_AAPT_CONFIG := normal

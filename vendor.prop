@@ -1,6 +1,9 @@
 # Bluetooth
 bluetooth.device.default_name=Xiaomi Pocophone F1
 
+# Camera
+vendor.camera.aux.packagelist=com.android.camera,org.codeaurora.snapcam,org.pixelexperience.faceunlock
+
 # Display postprocessing
 vendor.display.enable_default_color_mode=1
 

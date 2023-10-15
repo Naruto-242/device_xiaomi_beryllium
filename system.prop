@@ -4,5 +4,3 @@ persist.vendor.camera.perfcapture=1
 # Recovery
 ro.recovery.ui.margin_height=87
 
-# FaceSense
-ro.face.ext_service.cam_id=5

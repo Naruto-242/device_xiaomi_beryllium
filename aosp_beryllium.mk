@@ -16,6 +16,9 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := POCO F1
 PRODUCT_MANUFACTURER := Xiaomi
 
+#Faceunlock
+TARGET_FACE_UNLOCK_SUPPORTED := true
+
 PRODUCT_SYSTEM_NAME := beryllium
 
 BUILD_FINGERPRINT := "Xiaomi/beryllium/beryllium:10/QKQ1.190828.002/V12.0.3.0.QEJMIXM:user/release-keys"
